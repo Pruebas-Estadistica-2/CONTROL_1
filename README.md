@@ -1,4 +1,4 @@
-# CONTROL_1
+# CONTROL_1 (2022-2) 
 
 DATA wbDataMini.xlsx.csv 
 al observar la data, vemos que hay datos perdidos. 
